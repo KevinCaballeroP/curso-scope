@@ -1,0 +1,2 @@
+# curso-scope
+curso scope
